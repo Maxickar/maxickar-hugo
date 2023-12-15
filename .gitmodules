@@ -1,0 +1,3 @@
+[submodules "themes/gokarna"]
+    path = themes/gokarna
+    url = "https://github.com/Maxickar/Maxickar-website-/tree/main/maxickar-hugo/themes/gokarna"
