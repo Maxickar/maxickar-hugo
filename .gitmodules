@@ -1,3 +1,4 @@
-[submodules "themes/gokarna"]
+[submodule "themes/gokarna"]
     path = themes/gokarna
-    url = "https://github.com/526avijitgupta/gokarna"
+    url = https://github.com/526avijitgupta/gokarna.git
+
