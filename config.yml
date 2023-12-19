@@ -6,7 +6,7 @@ theme: gokarna
 
 menu:
     main:
-   #     - identifier: Tagslkj
+   #     - identifier: Tags
     #      name: Tags
      #     url: /tags/
       #    weight: 60
@@ -14,22 +14,18 @@ menu:
   #        name: Resume
    #       url: /resume/
     #      weight: 50
-   #     - identifier: Projects
-    #      name: Projects
-     #     url: /projects/
-      #    weight: 40
-     #   - identifier: Posts
-      #    name: Posts
-       #   url: /posts/
-        #  weight: 30
+        - identifier: Projects
+          name: Projects
+          url: /projects/
+          weight: 30
         - identifier: About
           name: About
           url: /about/
           weight: 20
-       # - identifier: Home
-        #  name: Home
-         # url: /home/
-          #weight: 10
+        - identifier: Home
+          name: Home
+          url: /home/
+          weight: 10
         - identifier: ChessScore
           name: ChessScoreagainstBen
           url: /chessscore/
