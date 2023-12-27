@@ -5,6 +5,10 @@ theme: gokarna
 
 description: "ASU computer Science major"
 
+params:
+  CustomFooterHTML: "banana"
+  Footer: "banana"
+
 menu:
     main:
    #     - identifier: Tags
