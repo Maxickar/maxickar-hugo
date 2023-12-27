@@ -3,11 +3,12 @@ languageCode: en-us
 title: Maxwell Goisman 
 theme: gokarna
 
-description: "ASU computer Science major"
+
 
 params:
-  CustomFooterHTML: "banana"
-  Footer: "banana"
+  description: "ASU computer Science major"
+  CustomFooterHTML: ""
+  Footer: "Maxwell Goisman"
 
 menu:
     main:
