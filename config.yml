@@ -9,6 +9,7 @@ params:
   description: "ASU computer Science major"
   CustomFooterHTML: ""
   Footer: "Maxwell Goisman"
+  avatarURL: https://www.google.com/search?sca_esv=593968436&rlz=1C1CHBF_enUS950US950&sxsrf=AM9HkKmRYoGaOgqqKvxrz4sG2DlAuqFNFA:1703677012017&q=affea+cat&tbm=isch&source=lnms&sa=X&ved=2ahUKEwinx_O4w6-DAxU8C0QIHetaAM0Q0pQJegQICxAB&biw=1280&bih=585&dpr=1.5#imgrc=zox-AArzdB_PYM&imgdii=ekq80EdYg3ADsM
 
 menu:
     main:
