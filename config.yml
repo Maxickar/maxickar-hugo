@@ -9,7 +9,7 @@ params:
   description: "ASU computer Science major"
   CustomFooterHTML: ""
   Footer: "Maxwell Goisman"
-  avatarURL: /images/affeastanding.webp
+  avatarURL: /img/affeastanding.png
 
 menu:
     main:
