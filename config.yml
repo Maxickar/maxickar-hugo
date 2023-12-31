@@ -6,7 +6,7 @@ theme: gokarna
 
 
 params:
-  description: "ASU computer Science major"
+  description: "ASU Computer Science Major"
   CustomFooterHTML: ""
   Footer: "Maxwell Goisman"
   avatarURL: /img/affeastanding.png
