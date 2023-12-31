@@ -3,7 +3,6 @@ title: "About"
 layout: "about"
 url: "/about/"
 summary: about
-no_footer: true
 ---
 
 Heya, my name is Maxwell Goisman, and I'm currently a sophomore at ASU majoring in computer science. I was born and raised in Scottsdale, Arizona, and went to elementary school at Sonoran Sky. For highschool, I went to BASIS Scottsdale, and for the last couple of years in highschool, I was participating in medical field programs like summer scrubs and pre med clubs, but after a while I started getting interested in programming, and eventually I graduated early to take online courses to then going to ASU.
