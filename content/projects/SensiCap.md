@@ -1,5 +1,5 @@
 ---
-title: "Sensi Cap"
+title: "SensiCap"
 layout: "SensiCap"
 url: "/SensiCap/"
 summary: SensiCap

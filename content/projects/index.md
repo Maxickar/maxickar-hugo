@@ -7,7 +7,7 @@ summary: project page
 
 
 ---
-# [Sensi Cap](/projects/SensiCap/)
+# [SensiCap](/projects/SensiCap/)
 Device used by the visibly impared to help them detect objects at head-level.
 ---
 # [Dark Dawn](/projects/DarkDawn/)
