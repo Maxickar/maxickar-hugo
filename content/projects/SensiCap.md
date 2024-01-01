@@ -1,7 +1,7 @@
 ---
 title: "Sensi Cap"
 layout: "Sensi Cap"
-url: "/Sensi_Cap/"
+url: "/SensiCap/"
 summary: Sensi Cap
 ---
 
