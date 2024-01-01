@@ -1,8 +1,6 @@
 ---
 title: "Projects"
-layout: "projects"
-url: "/projects/"
-summary: project page
+type: page
 ---
 
 
