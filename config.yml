@@ -11,7 +11,7 @@ params:
   Footer: "Maxwell Goisman"
   avatarURL: /img/affeastanding.png
   socialIcons: [
-      {name = "email", url = "Maxickar@gmail.com"}
+      {name = "email", url = "mailto:Maxickar@gmail.com"}
     ]
 
 
