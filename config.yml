@@ -10,6 +10,10 @@ params:
   CustomFooterHTML: ""
   Footer: "Maxwell Goisman"
   avatarURL: /img/affeastanding.png
+  socialIcons: [
+      {name = "email", url = "Maxickar@gmail.com"}
+    ]
+
 
 menu:
     main:
