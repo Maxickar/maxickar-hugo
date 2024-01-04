@@ -21,6 +21,9 @@ params:
      - name: "linkedin"
        url: "https://linkedin.com/in/maxwell-goisman-019255291/"
     
+     - name: "youtube"
+       url: "https://www.youtube.com/channel/UCBxF4pxKEwpfagnCPoWDdAg"
+    
 
 
 menu:
