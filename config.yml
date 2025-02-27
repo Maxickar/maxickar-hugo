@@ -9,7 +9,7 @@ params:
   description: "ASU Computer Science Major"
   CustomFooterHTML: ""
   Footer: "Maxwell Goisman"
-  avatarURL: /img/coolguy.png
+  avatarURL: /img/coolguy1.heic
   socialIcons: 
      - name: "email"
        url: "mailto:Maxickar@gmail.com"
